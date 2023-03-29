@@ -1,5 +1,7 @@
 # TicTacToe
-Simple game of Tic-Tac-Toe (Human vs Computer), ran on a Minimax algorithm
+Simple game of Tic-Tac-Toe (Human vs Computer), ran on a Minimax algorithm.
+ 
+Inspiration : "Invent Your Own Computer Games with Python" by Al Sweigart.
 
 ---
 
